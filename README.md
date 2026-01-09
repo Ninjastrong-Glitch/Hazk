@@ -1,0 +1,2 @@
+# Hazk
+Hazkobfuscator
